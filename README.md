@@ -1,1 +1,1 @@
-## Menu based counter application using dart.
+## Menu based using dart.
